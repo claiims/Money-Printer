@@ -1,3 +1,6 @@
 # Money-Printer
 DarkRP Money Printer
-sss
+Incl;
+- Money Printer
+- Armor Printer
+- Ammo Printer for M9K weapons. 
